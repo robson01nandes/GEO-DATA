@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Robson\\Documents\\faculdade\\Quinto semestre\\Desenvolvimento mobile\\aula CINCO\\GeoData\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Robson\\Documents\\faculdade\\Quinto semestre\\Desenvolvimento mobile\\aula CINCO\\GeoData\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "186"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "3692",
+                        "endLines": "27",
+                        "endColumns": "12",
+                        "endOffsets": "3824"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Robson\\Documents\\faculdade\\Quinto semestre\\Desenvolvimento mobile\\aula CINCO\\GeoData\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "281,327,374",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "322,369,420"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Robson\\Documents\\faculdade\\Quinto semestre\\Desenvolvimento mobile\\aula CINCO\\GeoData\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "3367",
+                        "endColumns": "42",
+                        "endOffsets": "3405"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Robson\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-25.3.1.aar\\23b67545c555567fe689a7204b48882d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "372,447,523,595",
+                        "endColumns": "74,75,71,65",
+                        "endOffsets": "442,518,590,656"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3144,3219,3295,3410",
+                        "endColumns": "74,75,71,65",
+                        "endOffsets": "3214,3290,3362,3471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Robson\\Documents\\faculdade\\Quinto semestre\\Desenvolvimento mobile\\aula CINCO\\GeoData\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,1,2,14,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "162,16,62,447,107",
+                        "endLines": "11,1,2,14,3",
+                        "endColumns": "19,45,44,69,54",
+                        "endOffsets": "383,57,102,512,157"
+                    },
+                    "to": {
+                        "startLines": "2,21,22,23,24",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,3476,3522,3567,3637",
+                        "endLines": "9,21,22,23,24",
+                        "endColumns": "19,45,44,69,54",
+                        "endOffsets": "276,3517,3562,3632,3687"
+                    }
+                }
+            ]
+        }
+    ]
+}
